@@ -1,0 +1,10 @@
+# 🐧 Progwish
+🐧 Simple sh for progwilinux!
+
+Progwish - Simple sh for progwilinux!
+
+## 🤷 Why Progwish?
+1. It's size is ~2KB.
+2. All is OPEN-SOURCE!
+
+(i tested progwish in progwilinux)

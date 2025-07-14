@@ -23,10 +23,6 @@ do
 		exit
 	elif [ "$cmd" = "dr" ]; then
 		ls
-	elif [ "$cmd" = "mnt" ]; then
-		mount $arg
-	elif [ "$cmd" = "umnt" ]; then
-		umount $arg
 	elif [ "$cmd" = "info" ]; then
 		uname -a
 	elif [ "$cmd" = "help" ]; then
